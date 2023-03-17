@@ -5,6 +5,7 @@ import Show from "./pages/Show/Show.jsx"
 import Navbar from "./components/Navbar/Navbar.jsx"
 import Footer from "./components/Footer/Footer.jsx"
 import { children } from "react"
+import "./app.scss"
 
 
 
